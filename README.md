@@ -18,7 +18,7 @@ O projeto foi desenvolvido utilizando as tecnologias:
 - [TypeScript](https://www.typescriptlang.org/)
 
 
-rincipais bibliotecas utilizadas (lista completa nas dependências listadas no arquivo package.json na raíz de cada uma das três pastas - [server](/server/package.json), [web](web/package.json) e [mobile](mobile/package.json)):
+Principais bibliotecas utilizadas (lista completa nas dependências listadas no arquivo package.json na raíz de cada uma das 2 pastas - [server](/server/package.json), [web](web/package.json) e [mobile](mobile/package.json)):
 
 - [Express](https://expressjs.com/)
 - [Typeorm](https://typeorm.org)
