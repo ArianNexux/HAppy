@@ -10,7 +10,7 @@ Professor: **[Diego Fernandes](https://github.com/diego3g)**
 
 ## :computer: Tecnologias
 
-O projeto foi desenvolvido utilizando as tecnologias:
+THE PROJECT WAS DEVELOPED USING TECHNOLOGIES SUCH AS:
 
 - [Node.js](https://nodejs.org/en/)
 - [ReactJS](https://reactjs.org/)
@@ -18,7 +18,7 @@ O projeto foi desenvolvido utilizando as tecnologias:
 - [TypeScript](https://www.typescriptlang.org/)
 
 
-Principais bibliotecas utilizadas (lista completa nas dependências listadas no arquivo package.json na raíz de cada uma das 2 pastas - [server](/server/package.json), [web](web/package.json) e [mobile](mobile/package.json)):
+YOU CAN FIND THE LIST OF ALL DEPENCIES IN FILE "package.json" IT'S INSIDE OF THESE 2 FOLDERS (FrontEnd, BackEnd) - [server](/server/package.json), [web](web/package.json) e [mobile](mobile/package.json)):
 
 - [Express](https://expressjs.com/)
 - [Typeorm](https://typeorm.org)
